@@ -58,7 +58,7 @@ body {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    border: 1px solid grey;
+    border: 1px solid #c6cccc;
   }
   
   
@@ -99,7 +99,7 @@ body {
     background-repeat: no-repeat;
     height: 100%;
     padding-top: 200px;
-    padding-bottom: 300px;
+    padding-bottom: 350px;
   }
   
   
