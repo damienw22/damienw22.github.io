@@ -1,0 +1,221 @@
+/* Damien Williams Styles File */
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-size: 1.1em;
+  }
+  
+  
+  h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+  }
+  
+  
+  h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+  }
+  
+  
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    /* text-align: left; */
+  }
+  
+  
+  a {
+    color: #11999E;
+  }
+  
+  
+  hr {
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: #C6CCCC;
+    border-width: 5px;
+    width: 5%;
+    margin: 50px auto 50px auto;
+  }
+  
+  
+  .profession {
+    font-weight: normal;
+  }
+  
+  
+  .profile-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  
+  
+  .development-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  
+  .toolbag-pic {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+  }
+  
+  
+  .adventure-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  
+  .top-container {
+    /* background-color: #ddf3f5; */
+    background-color: #bfebef;
+    position: relative;
+    padding-top: 100px;
+  }
+  
+  
+  .middle-container {
+    padding-top: 50px;
+  }
+  
+  
+  .bottom-container {
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    padding:50px;
+  }
+  
+  
+  .footer-link {
+    color: #11999E;
+    padding: 25px;
+    margin: 10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .footer-link:hover {
+    color: #EAF6F6;
+  }
+  
+  
+  .contact-paragraph{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-decoration: none;
+    background-color: #11999E;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    text-transform: uppercase;
+  }
+  
+  
+  .btn:hover {
+    background-color: #0A6F73;
+    transition: 0.4s;
+  }
+  
+  
+  .copyright {
+    margin-top: 40px;
+    font-size: 12px;
+    color: #EAF6F6;
+  }
+  
+  
+  
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    height: 100px;
+    width: 150px;
+  }
+  
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    height: 100px;
+    width: 150px;
+  }
+  
+  .projects-container {
+    /* display: flex; */
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  
+  .project-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  
+  .project-row img {
+    margin-bottom: 40px;
+  }
+  
+  
+  .project-pic-1 {
+    width: 100%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  
+  .project-pic-2 {
+    width: 100%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  
+  .project-pic-3 {
+    width: 100%;
+    /* height: 450px; */
+    float: left;
+    margin-right: 30px;
+  }
+  
+  
+  .project-pic-4 {
+    width: 100%;
+    /* height: 450px; */
+    float: right;
+    margin-left: 30px;
+  }
