@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    text-align: center;
+    text-align: center !important;
     font-family: 'Merriweather', serif;
     color: #40514E;
     font-size: 1.1em;
@@ -10,9 +10,9 @@ body {
   
   
   h1 {
-    font-size: 5.625rem;
+    font-size: 5.625rem !important;
     margin: 50px auto 0 auto;
-    margin-top: 0;
+    margin-top: 0 !important; 
     font-family: 'Sacramento', cursive;
     color: #66BFBF;
   }
@@ -39,12 +39,12 @@ body {
   
   
   hr {
-    border-style: none;
-    border-bottom-style: dotted;
-    border-color: #C6CCCC;
-    border-width: 5px;
-    width: 5%;
-    margin: 50px auto 50px auto;
+    border-style: none !important;
+    border-bottom-style: dotted !important;
+    border-color: #C6CCCC !important;
+    border-width: 5px !important;
+    width: 5% !important;
+    margin: 50px auto 50px auto !important;
   }
   
   
@@ -133,16 +133,17 @@ body {
     margin-bottom: 30px;
   }
   
-  .btn {
+  .contact-button {
     display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 40px;
+    margin: 30px 0 50px 0 !important;
+    /* margin-top: 10px;
+    margin-bottom: 40px; */
     text-decoration: none;
-    background-color: #11999E;
-    color: white;
+    background-color: #11999E !important;
+    color: white !important;
     font-family: 'Montserrat', sans-serif;
-    padding: 10px;
-    border-radius: 20px;
+    padding: 10px 20px !important;
+    border-radius: 30px !important;
     text-transform: uppercase;
   }
   
