@@ -200,32 +200,35 @@ body {
   
   .project-pic-1 {
     width: 100%;
-    float: left;
-    margin-right: 30px;
+    /* float: left;
+    margin-right: 30px; */
+    border: 2px solid black;
   }
   
   
   .project-pic-2 {
     width: 100%;
-    float: right;
-    margin-left: 30px;
+    /* float: right;
+    margin-left: 30px; */
+    border: 2px solid black;
   }
   
   
   .project-pic-3 {
     width: 100%;
     /* height: 450px; */
-    float: left;
-    margin-right: 30px;
+    /* float: left; */
+    /* margin-right: 30px; */
+    border: 2px solid black;
   }
   
   
-  .project-pic-4 {
+  /* .project-pic-4 {
     width: 100%;
-    /* height: 450px; */
+    height: 450px;
     float: right;
     margin-left: 30px;
-  }
+  } */
 
 
   .footer-text {
