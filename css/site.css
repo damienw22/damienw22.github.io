@@ -213,6 +213,13 @@ body {
     margin-right: 30px; */
     border: 2px solid black;
   }
+
+  .project-pic-1:hover {
+    /* width: 100%; */
+    /* float: left;
+    margin-right: 30px; */
+    border: 2px solid #66BFBF;
+  }
   
   
   .project-pic-2 {
@@ -220,6 +227,13 @@ body {
     /* float: right;
     margin-left: 30px; */
     border: 2px solid black;
+  }
+
+  .project-pic-2:hover {
+    /* width: 100%; */
+    /* float: left;
+    margin-right: 30px; */
+    border: 2px solid #66BFBF;
   }
   
   
@@ -229,6 +243,13 @@ body {
     /* float: left; */
     /* margin-right: 30px; */
     border: 2px solid black;
+  }
+
+  .project-pic-3:hover {
+    /* width: 100%; */
+    /* float: left;
+    margin-right: 30px; */
+    border: 2px solid #66BFBF;
   }
   
   
