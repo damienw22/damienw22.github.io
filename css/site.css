@@ -201,12 +201,19 @@ body {
     line-height: 2;
   }
   
-  
+  .project-img-container {
+    /* background: green; */
+    width: 60%;
+    margin: auto;
+    padding: 0 50px;
+  }
+
+
   .project-row img {
     margin-bottom: 40px;
   }
-  
-  
+
+
   .project-pic-1 {
     width: 100%;
     /* float: left;
